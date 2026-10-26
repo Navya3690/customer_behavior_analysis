@@ -1,4 +1,3 @@
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/78098ca3-72d1-4a3f-b254-981758061417" /># customer_behavior_analysis
 
 ## Project Overview
 An end-to-end data analytics project focused on understanding customer purchasing patterns, product preferences, and shopping behavior using Python, PostgreSQL, and Power BI.
@@ -20,6 +19,8 @@ An end-to-end data analytics project focused on understanding customer purchasin
 3. **Feature Engineering:** Created an age-group feature and a purchase-frequency-related feature.
 4. **SQL Analysis:** Used PostgreSQL to analyze customer shopping behavior and purchasing patterns.
 5. **Dashboard Development:** Built a Power BI dashboard to visualize customer behavior and shopping trends.
+
+<img width="1300" height="706" alt="image" src="https://github.com/user-attachments/assets/4fe551ff-b5f8-4dce-a54a-85144d1d15c1" />
 
 ## How to Run
 1. Clone this repository.
